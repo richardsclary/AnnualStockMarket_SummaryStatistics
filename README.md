@@ -1,4 +1,4 @@
-# VBA-CHALLENGE
+# Annual Stock Market Summary Statistics
 
 This script analyzes stock market data using Microsoft VBA.
 
